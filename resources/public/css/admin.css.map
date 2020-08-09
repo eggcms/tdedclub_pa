@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,qDAAI;AACZ,AAAA,WAAW,CAAA;EACP,MAAM,EAAC,iBAAiB;CAC3B",
+    "sources": [
+        "../../sass/admin.scss"
+    ],
+    "names": [],
+    "file": "admin.css"
+}
